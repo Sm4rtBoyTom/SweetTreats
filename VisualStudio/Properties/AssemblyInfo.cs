@@ -1,0 +1,6 @@
+﻿[assembly: AssemblyTitle("SweetTreats")]
+[assembly: AssemblyCopyright("Sm4rtBoyTom")]
+[assembly: AssemblyVersion("1.0.0")]
+[assembly: AssemblyFileVersion("1.0.0")]
+[assembly: MelonInfo(typeof(SweetTreats.Main), "SweetTreats", "1.0.0", "Sm4rtBoyTom", null)]
+[assembly: MelonGame("Hinterland", "TheLongDark")]
