@@ -1,5 +1,5 @@
-  <img width="1920" height="1080" alt="MoreMeds" src="https://github.com/user-attachments/assets/93524b81-c104-4d42-9494-1a4c8298fd73" />
-  
+<img width="1920" height="1080" alt="Thumb_SweetTreats" src="https://github.com/user-attachments/assets/fed798ae-383c-4e90-ad58-5a16d4ae63f2" />
+
   -----
   
 **SweetTreats is a mod for [The Long Dark](https://www.thelongdark.com). 
