@@ -1,0 +1,12 @@
+D:\Modding\Projects\SweetTreats\bin\Debug\net6.0\SweetTreats.deps.json
+D:\Modding\Projects\SweetTreats\bin\Debug\net6.0\SweetTreats.dll
+D:\Modding\Projects\SweetTreats\bin\Debug\net6.0\ExpandedTradingFramework.dll
+D:\Modding\Projects\SweetTreats\bin\Debug\net6.0\ModSettings.dll
+D:\Modding\Projects\SweetTreats\bin\Debug\net6.0\ModData.dll
+D:\Modding\Projects\SweetTreats\obj\Debug\net6.0\SweetTreats.csproj.AssemblyReference.cache
+D:\Modding\Projects\SweetTreats\obj\Debug\net6.0\SweetTreats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modding\Projects\SweetTreats\obj\Debug\net6.0\SweetTreats.csproj.CoreCompileInputs.cache
+D:\Modding\Projects\SweetTreats\obj\Debug\net6.0\SweetTre.5DE26B1B.Up2Date
+D:\Modding\Projects\SweetTreats\obj\Debug\net6.0\SweetTreats.dll
+D:\Modding\Projects\SweetTreats\obj\Debug\net6.0\refint\SweetTreats.dll
+D:\Modding\Projects\SweetTreats\obj\Debug\net6.0\ref\SweetTreats.dll
