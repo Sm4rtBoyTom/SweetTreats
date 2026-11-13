@@ -1,0 +1,39 @@
+{
+  "RecipeName": "GAMEPLAY_RoseHipJam",
+  "RecipeDescription": "GAMEPLAY_RoseHipJamDescription",
+  "RecipeIcon": "",
+  "RequiredSkillLevel": 3,
+  "AllowedCookingPots": [
+    "GEAR_CookingPot"
+  ],
+  "BlueprintData": {
+    "Name": "RECIPE_RoseHipJam",
+    "RequiredGear": [
+      {
+        "Item": "GEAR_RosehipsPrepared",
+        "Count": 10,
+        "Units": "Count"
+      },
+      {
+        "Item": "GEAR_SugarA",
+        "Count": 50,
+        "Units": "Count"
+      }
+    ],
+    "RequiredPowder": [],
+    "RequiredLiquid": [
+      {
+        "Liquid": "LIQUID_RoseHipTea",
+        "VolumeInLitres": 0.25
+      },
+      {
+        "Liquid": "LIQUID_WaterPotable",
+        "VolumeInLitres": 1.0
+      }
+    ],
+    "CraftedResult": "GEAR_UncookedRosehipJam",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "Play_CraftingStewVegetable"
+  }
+}

@@ -1,0 +1,91 @@
+
+loottable=LootTableKitchenCupboard
+item=SugarA w=1
+loottable=LootTableKitchenDrawer
+item=SugarA w=1
+
+# End of LootTable Spawns
+#_______________________________________________________________________________________________
+
+scene=AFHangar
+
+item=GEAR_SugarA p=-26.0989,5.1069,-0.8668 r=0.0000,230.4117,0.0000 c=100
+
+scene=HubCave
+
+item=GEAR_SugarA p=3.5225,12.1405,466.2755 r=2.8950,355.7033,356.0509 c=100
+
+scene=MountainPassRegion
+
+item=GEAR_SugarA p=261.9349,372.5003,-52.9709 r=0.0000,334.5302,0.0000 c=100
+
+
+scene=MountainPassCaveA
+
+scene=MountainPassBuriedCabin
+item=GEAR_SugarA p=-2.6318,0.1874,5.9226 r=-0.0000,67.8926,-0.0000 c=100
+
+scene=MaintenanceShedA
+
+item=GEAR_SugarA p=-11.5126,0.9693,-25.4352 r=-0.0000,28.3952,-0.0000 c=100
+
+
+scene=PrepperCacheB
+
+item=GEAR_SugarA p=1.7512,1.5810,2.0938 r=-0.0000,83.1225,-0.0000 c=100
+
+scene=ConvenienceStoreA
+
+item=GEAR_SugarA p=0.6729,0.6797,0.1485 r=0.0000,304.1216,0.0000 c=100
+
+scene=MiltonHouseD
+
+item=GEAR_SugarA p=-5.0637,1.6705,0.7670 r=0.0000,200.5343,0.0000 c=100
+
+scene=CampOffice
+
+item=GEAR_SugarA p=-4.7185,0.5712,-3.2271 r=-0.0000,12.4416,-0.0000 c=100
+
+
+scene=BunkerA
+
+item=GEAR_SugarA p=1.2422,0.6811,10.1981 r=0.0000,309.7723,0.0000 c=100
+
+scene=BunkerXL
+
+item=GEAR_SugarA p=-1.1537,0.8138,15.5574 r=0.0000,269.1940,0.0000 c=100
+
+scene=CoastalHouseD
+
+item=GEAR_SugarA p=-0.4601,1.7071,3.3244 r=-0.0000,124.6320,-0.0000 c=100
+
+
+scene=CommunityHallA
+
+item=GEAR_SugarA p=-2.8604,0.5420,4.5225 r=0.1146,350.1490,0.6600 c=100
+
+scene=CrashMountainRegion
+
+item=GEAR_SugarA p=940.9832,470.5764,1168.5210 r=7.4803,272.9360,3.6571 c=100
+
+scene=AshCaveA
+
+scene=TrailerE
+
+item=GEAR_SugarA p=2.7029,1.1489,1.6410 r=-0.0000,24.1771,-0.0000 c=100
+
+scene=ModProponentsReach
+
+item=GEAR_SugarA p=709.2631,133.2417,745.3970 r=-0.0000,115.2661,-0.0000 c=100
+
+scene=ModShatteredBunker
+
+item=GEAR_SugarA p=204.0633,81.9249,9.4777 r=0.0000,289.4139,0.0000 c=100
+
+scene=ChurchCIronRoad
+
+item=GEAR_SugarA p=4.6293,-0.0242,2.2973 r=0.0000,355.6882,0.0000 c=100
+
+scene=IslandATrackSection6
+
+item=GEAR_SugarA p=454.2760,116.0639,302.8866 r=-0.0000,71.6047,-0.0000 c=100
