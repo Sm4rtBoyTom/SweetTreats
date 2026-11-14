@@ -14,6 +14,9 @@ A video game developed by [Hinterland Games](https://hinterlandgames.com/).**
   - **New Recipe:** You can now use rose hips to make a calorie and vitamin-c dense treat!
   - **Sweeteners:** Sugar and Rose hip jam, each with their own benefit when used on drinks/foods
 
+> [!TIP]
+> **For more detailed explanation and description of the mods features please visit the mod's [Wiki](https://github.com/Sm4rtBoyTom/SweetTreats/wiki)**
+
 ## **Required Dependencies**
 
 #### For this mod to work, ensure you have the following mods below:
